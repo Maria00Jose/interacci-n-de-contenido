@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.info 
+{
+    background-color: rgb(49, 50, 53);
+    padding: 2rem 1rem;
+    width: 100vw;
+    display: flex;
+    justify-content: stretch;
+
+}
+.info p
+{}
+.navBar
+{
+    background-color:rgb(red, green, blue);
+    background-color: cornflowerblue;
+    padding: 2rem 1rem;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.menu
+{
+    width: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 5px;
+
+}
+
+.menu.img 
+{
+    width: 20vw;
+
+}
+.menu a
+{
+    display: flex;
+    align-items: center;
+
+}
+.navBar input
+{
+    width: 15vw;
+    border-radius: 10px;
+
+}
+.ola{
+    display: flex;
+}
+.div
+{
+    width: 30vw;
+    display: flex;
+    padding: 1rem 2rem;
+
+}
